@@ -1,5 +1,6 @@
 .sidebar{
-    flex: 0.35;
+    flex: 0.3;
+    background-color: white;
 }
 
 .sidebar__search{
